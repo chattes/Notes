@@ -3,9 +3,11 @@
 ## Insert Mode
 
 ###Copy Word in insert mode
+
     <C-x><C-p>
 
 ###Copy Line in insert mode
+
     <C-x><C-l>
 
 ### File completion
