@@ -22,10 +22,11 @@
 
     gd and gD
 
-**Jump Back to previous area
+**Jump Back to previous area**
     go
 
-**Specifies Split size
+
+**Specifies Split size**
 
     :10winc "+ - < >"
 
