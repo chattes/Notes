@@ -2,11 +2,11 @@
 
 ## Insert Mode
 
-###Copy Word in insert mode
+### Copy Word in insert mode
 
     <C-x><C-p>
 
-###Copy Line in insert mode
+### Copy Line in insert mode
 
     <C-x><C-l>
 
